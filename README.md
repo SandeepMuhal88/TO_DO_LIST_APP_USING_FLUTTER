@@ -219,12 +219,3 @@ You are free to use, modify, and distribute it.
 
 ---
 
-If you want, I can also:
-
-✅ Generate a **GitHub banner image**
-✅ Create **screenshots layout**
-✅ Create **badges**
-✅ Write a **LICENSE.txt** file
-
-Just say:
-**“Make banner”** or **“Generate license file”** or **“Add screenshot section”**
